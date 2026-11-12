@@ -1,3 +1,5 @@
+# Inkspire Manufacturing Management System
+*By Ayomide Afolabi*
 ## Project Overview
 Inkspire is a manufacturing and inventory
 management system designed to help organize
